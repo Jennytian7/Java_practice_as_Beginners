@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tianh
+ *
+ */
+module myproject {
+}
